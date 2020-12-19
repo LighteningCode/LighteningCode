@@ -1,7 +1,7 @@
 ### Hi there 👋, its your boy, Elvis
 
 
-- 🔭 I’m currently working on a very interesting app, we will be releasing soon
+- 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
 - 🌱 I’m currently learning WebAssembly (WASM) - because i believe it has potiential in the future of Web
 - 👯 I’m looking to collaborate on anything, but should use cool technologies in dev stack
 - 🤔 I’m looking for help with money, riches and writing better code
