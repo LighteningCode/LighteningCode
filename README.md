@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
 - 🌱 I’m currently learning WebAssembly (WASM) - because i believe it has potiential in the future of Web
-- 👯 I’m looking to collaborate on anything, but should use cool technologies in dev stack
+- 👯 I’m looking to collaborate on anything, but should use cool technologies in my dev stack
 - 🤔 I’m looking for help with money, riches and writing better code
 - 💬 Ask me about joining your company or how to fry plantain under 10 secs
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis),[LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) , [WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
