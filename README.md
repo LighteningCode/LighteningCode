@@ -1,4 +1,4 @@
-### Hi there 👋, its your boy, Elvis
+### Hi there 👋, I'm Elvis
 
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
