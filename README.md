@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Elvis
 
-
+<!---
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LighteningCode&show_icons=true&theme=nord" alt="Denzil's Github Stats">
 </p>
+--->
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
 - 🌱 I’m currently learning GO. Why? Needed to learn a compiled language which was fast and familar
