@@ -7,7 +7,7 @@
 --->
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
-- 🌱 I’m currently learning GO. Why? Needed to learn a compiled language which was fast and familar
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on anything, but should use cool technologies in my dev stack
 - 🤔 I’m looking for help with wealth, riches and writing better code
 - 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
