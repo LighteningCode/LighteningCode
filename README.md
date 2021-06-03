@@ -7,7 +7,7 @@
 --->
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
-- 🌱 I’m currently learning React-native, for building mobile apps
+- 🌱 I’m currently learning Reinforcement Learning, for building recommender systems on Netflix and YouTube
 - 👯 I’m looking to collaborate on anything, but should use cool technologies in my dev stack
 - 🤔 I’m looking for help with wealth, riches and writing better code
 - 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
