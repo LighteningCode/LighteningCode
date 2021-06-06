@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
 - 🌱 I’m currently learning Reinforcement Learning, for building recommender systems on Netflix and YouTube
-- 👯 I’m looking to collaborate on anything, but should use cool technologies in my dev stack
+- 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
 - 🤔 I’m looking for help with wealth, riches and writing better code
 - 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) , [WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
