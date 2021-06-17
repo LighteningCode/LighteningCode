@@ -16,11 +16,13 @@
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase, Neo4J
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design, frying plantain
 
+<div style="display: flex; flex-direction: column;">
+    <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LighteningCode&" alt="LighteningCode github streak" /></div>
+</div>
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
