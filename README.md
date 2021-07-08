@@ -6,7 +6,7 @@
 </p>
 --->
 
-- 🔭 I’m currently working on a very interesting food-related app, we will be releasing soon
+- 🔭 I’m currently working on a very interesting food-related app still in testing, but for Students UG who want daily food recommendations and where to buy them go to [Youchop](https://www.youchop.online/)
 - 🌱 I’m currently learning Reinforcement Learning, for building recommender systems on Netflix and YouTube
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
 - 🤔 I’m looking for help with writing better code
