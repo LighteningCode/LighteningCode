@@ -26,3 +26,6 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+- teaches amazing stuff
+- cool teacher i guess
+
