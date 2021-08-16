@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Elvis
+### Hi there, 👋, I'm I am using GitHub.
 
 <!---
 <p align="center">
@@ -14,7 +14,7 @@
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
 - 🦾 Computer languages i can speak?,English, Javascript, Typescript, PHP, JAVA, C#, C++ - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase, Neo4J
-- 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design, frying plantain
+- 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
 
 <div style="display: flex; flex-direction: column;">
     <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LighteningCode&" alt="LighteningCode github streak" /></div>
