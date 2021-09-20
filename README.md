@@ -15,7 +15,7 @@
 - 🦾 Computer languages i can speak?,English, Javascript, Typescript, PHP, JAVA, C#, C++ - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase, Neo4J
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
-- I am currently teaching a group of level 100 university students their way around GitHub.
+- 👍 I am currently teaching a group of level 100 university students their way around GitHub.
 
 
 <div style="display: flex; flex-direction: column;">
