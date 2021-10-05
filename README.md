@@ -18,7 +18,7 @@
 - 👍 I am currently teaching a group of level 100 university students their way around GitHub.
 
 <a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=midnight-purple&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
 </a>
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
