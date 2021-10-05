@@ -17,10 +17,9 @@
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
 - 👍 I am currently teaching a group of level 100 university students their way around GitHub.
 
-
-<div style="display: flex; flex-direction: column;">
-    <div><img style="margin-top:10px;" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LighteningCode&" alt="LighteningCode github streak" /></div>
-</div>
+<a href="/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=neophyte-programmer&theme=midnight-purple&hide_border=true" />
+</a>
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
