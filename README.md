@@ -6,7 +6,7 @@
 </p>
 --->
 
-- 🔭 I’m currently working on a building a website for a construction company, more details later.
+- 🔭 I’m currently building a website for a construction company plus a lot of other projects, more details later.
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
 - 🤔 I’m looking for help with writing better code
