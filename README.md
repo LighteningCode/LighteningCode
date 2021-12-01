@@ -16,6 +16,7 @@
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase, Neo4J
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
 - 👍 I am currently teaching a group of level 100 university students their way around GitHub.
+- 🐱‍👤 Favorite Quote: Pessimists sound smart optimists make money - Nat Friedman (Github CEO)
 
 <a href="/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
