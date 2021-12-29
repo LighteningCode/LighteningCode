@@ -1,15 +1,11 @@
-### Hi there, 👋, I'm using GitHub.
+### Hi there, 👋, this is your favorite FullStacker A.K.A Stylish Front-end Engineer, Elvisss (with 3 s')
 
-<!---
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LighteningCode&show_icons=true&theme=nord" alt="Denzil's Github Stats">
-</p>
---->
+UPDATED: 29th December 2021
 
 - 🔭 I’m currently learning python, learning is slow and challenging to be honest.
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
-- 🤔 I’m looking for help with writing better code
+- 🤔 I hate fat components and long meetings
 - 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
 - 🦾 Computer languages i can speak?,English, Javascript, Typescript, PHP, JAVA, C#, C++ - HTML CSS (cant be counted but...well..yeah)
