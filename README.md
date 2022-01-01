@@ -1,6 +1,6 @@
 ### Hi there, 👋, this is your favorite FullStacker A.K.A Stylish Front-end Engineer, Elvisss (with 3 s')
 
-UPDATED: 29th December 2021
+UPDATED: 1st January 2022
 
 - 🔭 I’m currently learning python, learning is slow and challenging to be honest.
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries
@@ -14,13 +14,27 @@ UPDATED: 29th December 2021
 - 👍 I am currently teaching a group of level 100 university students their way around GitHub.
 - 🐱‍👤 Favorite Quote: Pessimists sound smart optimists make money - Nat Friedman (Former Github CEO)
 
+<div align="center">
+
 <a href="/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
 </a>
+
+
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  
+  
+### My Github Wrapped 2021  
+
+https://user-images.githubusercontent.com/30559298/147853107-d227b461-2fd0-495c-b933-8fc6f24ee7d0.mp4
+
+
+  
+</div>
+
