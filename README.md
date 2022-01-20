@@ -1,4 +1,4 @@
-### Hi there, 👋, this is your favorite FullStacker A.K.A Stylish Front-end Engineer, Elvisss (with 3 s')
+### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
 UPDATED: 1st January 2022
 
