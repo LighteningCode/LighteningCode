@@ -1,9 +1,9 @@
 ### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
-UPDATED: 1st January 2022
+UPDATED: 25th January 2022
 
-- 🔭 I’m currently learning python, learning is slow and challenging to be honest.
-- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries
+- 🔭 I’m currently learning python, learning is slow and challenging to be honest, but I love the rush of learning.
+- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 73
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
 - 🤔 I hate fat components and long meetings
 - 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
