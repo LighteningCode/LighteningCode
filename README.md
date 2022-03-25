@@ -5,7 +5,7 @@ UPDATED: 25th March 2022
 - 🔭 I’m currently researching on monorepo's, testing it out using Lerna
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 135, There is something we call the Three (3) A's of making metrics, Actionable, Accessible and Auditable (Page 134 - 137)
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
-- 🤔 I don't like fat components and long meetings (2hrs+)
+- 🤔 I don't like fat (or prop drilling) components and long meetings (2hrs+) 
 - 💬 Ask me about how to build a WhatsApp or telegram Bot or how to fry plantain to crisp under 30 secs or a more pressing question, like why the head of a sardine is not included in the tin can of sardines.
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
 - 🦾 Computer languages I can speak? English, Javascript, Typescript, PHP, JAVA, C#, C++, a bit of Golang and a pinch of Python - HTML CSS (cant be counted but...well..yeah)
