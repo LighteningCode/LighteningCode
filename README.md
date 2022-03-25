@@ -2,16 +2,16 @@
 
 UPDATED: 10th March 2022
 
-- 🔭 I’m currently learning how to build a Whatsapp bot with a library that implements Puppeteer, 
-- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 129, Did you know that you can run A/B tests uncover that there are things that users engineers implement to make an product better but have little to know impact on users? (Page 128)
+- 🔭 I’m currently researching on monorepo's, testing it out using Lerna
+- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 135, There is something we call the Three (3) A's of making metrucs (Page 128)
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
 - 🤔 I don't like fat components and long meetings (2hrs+)
-- 💬 Ask me about solving problems or how to fry plantain to crisp under 30 secs
+- 💬 Ask me about how to build a WhatsApp or telegram Bot or how to fry plantain to crisp under 30 secs or a more pressing question, like why the head of a sardine is not included in the tin can of sardines.
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
-- 🦾 Computer languages i can speak? English, Javascript, Typescript, PHP, JAVA, C#, C++ - HTML CSS (cant be counted but...well..yeah)
+- 🦾 Computer languages I can speak? English, Javascript, Typescript, PHP, JAVA, C#, C++, a bit of Golang and a pinch of Python - HTML CSS (cant be counted but...well..yeah)
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
-- 👍 I am currently teaching a group of level 100 university students their way around GitHub, many of them seem to get the idea.
+- 👍 I am currently teaching a group of level 100 university students their way around GitHub, ~many of them seem to get the idea~ many of them can actively use it now.
 - 🐱‍👤 Favorite Quote: Pessimists sound smart optimists make money - Nat Friedman (Former Github CEO)
 
 <div align="center">
