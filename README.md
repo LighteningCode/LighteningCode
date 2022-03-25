@@ -1,6 +1,6 @@
 ### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
-UPDATED: 10th March 2022
+UPDATED: 25th March 2022
 
 - 🔭 I’m currently researching on monorepo's, testing it out using Lerna
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 135, There is something we call the Three (3) A's of making metrucs (Page 128)
