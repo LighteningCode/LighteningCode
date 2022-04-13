@@ -2,9 +2,9 @@
 
 UPDATED: 25th March 2022
 
-- 🔭 I’m currently researching on monorepo's, testing it out using Lerna
-- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 135, There is something we call the Three (3) A's of making metrics, Actionable, Accessible and Auditable (Page 134 - 137)
-- 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps and recommender systems 
+- 🔭 I’m currently learning advanced testing strategies using cypress.io,
+- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 181, I recently learnt that smaller batches are better suited rather than very large batches. Large batch processing tends to make systems inefficient. So optimize the sizes of the batches and work with those.
+- 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps, mobile apps and some JS 
 - 🤔 I don't like fat (or prop drilling) components and long meetings (2hrs+) 
 - 💬 Ask me about how to build a WhatsApp or telegram Bot or how to fry plantain to crisp under 30 secs or a more pressing question, like why the head of a sardine is not included in the tin can of sardines.
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
