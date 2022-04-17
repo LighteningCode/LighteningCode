@@ -19,6 +19,13 @@ UPDATED: 13th April 2022
 <a href="/">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
 </a>
+  
+<div>
+  <a href="https://calendly.com/elvisagbesi/30min">
+    <p>Schedule a meeting with me let's talk</p>
+  <img width="150px" src="https://careers.calendly.com/media/b33hplzq/untitled-1600-x-300-px-new.png?anchor=center&mode=crop&width=1200&height=630&mode=crop&quality=75" />
+</a>
+  </div>
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -26,7 +33,6 @@ UPDATED: 13th April 2022
 
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-  
   
 </div>
 
