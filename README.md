@@ -21,7 +21,7 @@ UPDATED: 17th April 2022
 </a>
   
 <div>
-  <a href="https://calendly.com/elvisagbesi/30min">
+  <a href="https://calendly.com/elvisagbesi/meeting-with-elvis">
     <p>Schedule a meeting with me let's talk</p>
   <img width="150px" src="https://careers.calendly.com/media/b33hplzq/untitled-1600-x-300-px-new.png?anchor=center&mode=crop&width=1200&height=630&mode=crop&quality=75" />
 </a>
