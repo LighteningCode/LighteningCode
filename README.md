@@ -1,6 +1,7 @@
 ### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
-UPDATED: 17th April 2022
+
+UPDATED: 27th April 2022
 
 - 🔭 I’m currently learning advanced testing strategies using cypress.io,
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 181, I recently learnt that smaller batches are better suited rather than very large batches. Large batch processing tends to make systems inefficient. So optimize the sizes of the batches and work with those.
@@ -35,4 +36,32 @@ UPDATED: 17th April 2022
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
 </div>
+
+
+#### LinkIn Posts
+<table>
+  <tr>
+    <td align="center" colspan="1">
+      <center>
+    <img height="150px"  src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGT5-TdEnu5lg/articleshare-shrink_800/0/1650735192507?e=2147483647&v=beta&t=adZLH7cxcNvDRQ-YT5KiTRjRs5nI0z5n-kkk7dA-_fM" />
+      <p>Okay so in 2021 I did quite a lot of coding in my life, (Its annotated, click the link below to see the annotations for what I was doing)</p>
+      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_lighteningcodes-2021-github-skyline-activity-6922515329336131584-X-TA?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
+        </center>
+    </td>
+     <td align="center" colspan="1">
+       <center>
+    <img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQFrqnlHsYQBQw/feedshare-shrink_800/0/1649336733588?e=2147483647&v=beta&t=8AKS83hnSezh8yukVZLbGaHfAyVUaqno3ABtEglQLZQ" />
+      <p>I copied the Medium website to express how well I can design and create what I can see. Once it can be perceived via mockups or examples it can be done</p>
+      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_github-opensource-design-activity-6917819662894260225-6FV1?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
+         </center>
+    </td>
+     <td align="center"  colspan="1">
+    <img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQGtBg8LB4DBMA/feedshare-shrink_800/0/1648143838293?e=2147483647&v=beta&t=aibWhxYpQ0rK6dwPKyasPK9F5uR1U5nmE5Hi1tKlS28" />
+      <p>I have always disliked the fact that WhatsApp does not publicly allow developers to build assistive bots, its frustrating 😔. Telegram has been built with so much support at this end....read more below</p>
+      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_community-python-learning-activity-6912816302571020288--cbr?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
+    </td>
+    
+  </tr>
+  </table>
+
 
