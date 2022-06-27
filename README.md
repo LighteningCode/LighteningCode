@@ -55,8 +55,13 @@ UPDATED: 27th April 2022
  <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg" />
 </picture>
 
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&redirect=true">
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
+ <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+</picture>
+</a>
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
   
 </div>
 
