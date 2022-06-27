@@ -29,17 +29,31 @@ UPDATED: 27th April 2022
 </a>
   </div>
   
-  
-    <picture>
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/0-profile-details.svg">
+ <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg" />
+</picture>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
+ <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg" />
+</picture>
+
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
  <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
 </picture>
+  
 
-[![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-[![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-  
-[![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/3-stats.svg">
+ <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/3-stats.svg" />
+</picture>
+
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/4-productive-time.svg">
+ <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg" />
+</picture>
 
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
