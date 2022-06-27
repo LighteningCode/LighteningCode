@@ -16,20 +16,29 @@ UPDATED: 27th April 2022
 - 🐱‍👤 Favorite Quote: Pessimists sound smart optimists make money - Nat Friedman (Former Github CEO)
 
 <div align="center">
-
-<a href="/">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
-</a>
   
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=midnight-purple&hide_border=true">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=LighteningCode&theme=vue&hide_border=true" />
+</picture>
+
 <div>
   <a href="https://calendly.com/elvisagbesi/meeting-with-elvis">
     <p>Schedule a meeting with me let's talk</p>
   <img width="150px" src="https://careers.calendly.com/media/b33hplzq/untitled-1600-x-300-px-new.png?anchor=center&mode=crop&width=1200&height=630&mode=crop&quality=75" />
 </a>
   </div>
+  
+  
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
+ <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg" />
+</picture>
 
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
 [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
