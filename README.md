@@ -1,7 +1,7 @@
 ### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
 
-UPDATED: 27th April 2022
+UPDATED: 31st April 2022
 
 - 🔭 I’m currently advancing my Code Testing skills.
 - 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 181, I recently learnt that smaller batches are better suited rather than very large batches. Large batch processing tends to make systems inefficient. So optimize the sizes of the batches and work with those.
