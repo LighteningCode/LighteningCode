@@ -1,18 +1,28 @@
 ### Hi there, 👋, this is your favorite FullStacker Elvis :)
 
 
-UPDATED: 31st July 2022
+UPDATED: 25th August 2022
 
 - 🔭 I’m currently advancing my Code Testing skills.
-- 🌱 I’m currently reading a book titled "The Lean Startup" by Eric Ries, currently on page 181, I recently learnt that smaller batches are better suited rather than very large batches. Large batch processing tends to make systems inefficient. So optimize the sizes of the batches and work with those.
+
+- 🌱 I’m currently reading a book titled "The Age of AI and Our Future" by  Daniel P. Huttenlocher, Eric Schmidt, and Henry Kissinger, currently on page 68, so I saw this "When intangible software acquires logical capabilities and, as a result, assumes social roles once considered exclusively human (paired with those never experienced by humans), we must ask ourselves: How will AI’s evolution affect human perception, cognition, and interaction? What will AI’s impact be on our culture, our concept of humanity, and, in the end, our history?" 
+
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps, mobile apps and some JS 
+
 - 🤔 I don't like fat (or prop drilling) components and long meetings (2hrs+) 
+
 - 💬 Ask me about the <a href="https://youtu.be/8aGhZQkoFbQ">JavaScript event loop</a>  or how to fry plantain to crisp under 30 secs or a more pressing question, like why the head of a sardine is not included in the tin can of sardines.
+
 - 📫 How to reach me: elvisagbesi@gmail.com, [twitter](https://twitter.com/ben__elvis), [LinkedIn](https://www.linkedin.com/in/elvis-agbesi-81b615171/) ,[WhatsApp](https://wa.me/+233267658663) and calls +233(0)267658663 
+
 - 🦾 Computer languages I can speak? English, Javascript, Typescript, PHP, JAVA, C#, C++, a bit of Golang and a pinch of Python - HTML CSS (cant be counted but...well..yeah)
+
 - 🌌 Proficiently Skilled in - (Web Technologies) NodeJS, ReactJS, PassportJS, ExpressJS, (Databases) - SQL, PostgreSQL, MongoDB, Firebase
+
 - 🛹 Other Skills - (Weird mix but okay) Super Skilled in Literally all the ADOBE apps (PS, PR, AE, AI, XD), Figma, UI / UX design.
+
 - 👍 I am currently teaching a group of level 100 university students their way around GitHub, ~many of them seem to get the idea~ many of them can actively use it now.
+
 - 🐱‍👤 Favorite Quote: Pessimists sound smart optimists make money - Nat Friedman (Former Github CEO)
 
 <div align="center">
@@ -91,5 +101,12 @@ UPDATED: 31st July 2022
     
   </tr>
   </table>
+  
+  
+  
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
+[![Top contributors](https://images.repography.com/28568708/LighteningCode/LighteningCode/top-contributors/5f58e269a7e9faa9724bfb4e342d6a1a_table.svg)](https://github.com/LighteningCode/LighteningCode/graphs/contributors)
+
+
 
 
