@@ -1,4 +1,12 @@
-### Hi there, 👋, this is your favorite FullStacker Elvis :)
+<center>
+<span style="font-size: 90px"> 
+  Hi there, 👋, you are the
+  <img src="https://profile-counter.glitch.me/LighteningCode/count.svg" />
+  (st/ rd/ nd/ th) person here 🙂
+</span> 
+</center>
+
+### 
 
 
 UPDATED: 25th August 2022
