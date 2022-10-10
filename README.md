@@ -1,3 +1,4 @@
+
 <center>
 <span style="font-size: 90px"> 
   Hi there, 👋, you are the
@@ -13,7 +14,7 @@ UPDATED: 25th August 2022
 
 - 🔭 I’m currently advancing my Code Testing skills.
 
-- 🌱 I’m currently reading a book titled "The Age of AI and Our Future" by  Daniel P. Huttenlocher, Eric Schmidt, and Henry Kissinger, currently on page 68, so I saw this "When intangible software acquires logical capabilities and, as a result, assumes social roles once considered exclusively human (paired with those never experienced by humans), we must ask ourselves: How will AI’s evolution affect human perception, cognition, and interaction? What will AI’s impact be on our culture, our concept of humanity, and, in the end, our history?" 
+- 🌱 I’m currently reading a book titled - The Hot Seat by Jeff Immelt, ex-CEO of General Electric, he made this statement that I think is quite profound, "Transparency is an admirable goal. But the real goal is to solve problems. When leaders merely unload their burdens without offering a plan of action, that’s selfishness masquerading as candor" 
 
 - 👯 I’m looking to collaborate on anything, but should use cool technologies related to web apps, mobile apps and some JS 
 
@@ -73,44 +74,24 @@ UPDATED: 25th August 2022
  <img src="https://raw.githubusercontent.com/LighteningCode/summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg" />
 </picture>
 
+
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&redirect=true">
    <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true">
  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ugqngbwfo7jn73yqjx4unxbaem&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
 </picture>
 </a>
-
-  
 </div>
 
+<p>
 
-#### LinkIn Posts
-<table>
-  <tr>
-    <td align="center" colspan="1">
-      <center>
-    <img height="150px"  src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGT5-TdEnu5lg/articleshare-shrink_800/0/1650735192507?e=2147483647&v=beta&t=adZLH7cxcNvDRQ-YT5KiTRjRs5nI0z5n-kkk7dA-_fM" />
-      <p>Okay so in 2021 I did quite a lot of coding in my life, (Its annotated, click the link below to see the annotations for what I was doing)</p>
-      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_lighteningcodes-2021-github-skyline-activity-6922515329336131584-X-TA?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
-        </center>
-    </td>
-     <td align="center" colspan="1">
-       <center>
-    <img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQFrqnlHsYQBQw/feedshare-shrink_800/0/1649336733588?e=2147483647&v=beta&t=8AKS83hnSezh8yukVZLbGaHfAyVUaqno3ABtEglQLZQ" />
-      <p>I copied the Medium website to express how well I can design and create what I can see. Once it can be perceived via mockups or examples it can be done</p>
-      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_github-opensource-design-activity-6917819662894260225-6FV1?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
-         </center>
-    </td>
-     <td align="center"  colspan="1">
-    <img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQGtBg8LB4DBMA/feedshare-shrink_800/0/1648143838293?e=2147483647&v=beta&t=aibWhxYpQ0rK6dwPKyasPK9F5uR1U5nmE5Hi1tKlS28" />
-      <p>I have always disliked the fact that WhatsApp does not publicly allow developers to build assistive bots, its frustrating 😔. Telegram has been built with so much support at this end....read more below</p>
-      <a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_community-python-learning-activity-6912816302571020288--cbr?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a>
-    </td>
-    
-  </tr>
-  </table>
-  
-  
+## LinkedIn Posts
+|  |  |  |
+|--|--|--|
+| <div align="center" colspan="1"><center><img height="150px"  src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQGT5-TdEnu5lg/articleshare-shrink_800/0/1650735192507?e=2147483647&v=beta&t=adZLH7cxcNvDRQ-YT5KiTRjRs5nI0z5n-kkk7dA-_fM" /><p>Okay so in 2021 I did quite a lot of coding in my life, (Its annotated, click the link below to see the annotations for what I was doing)</p><a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_lighteningcodes-2021-github-skyline-activity-6922515329336131584-X-TA?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a></center></div> | <div align="center" colspan="1"><center><img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQFrqnlHsYQBQw/feedshare-shrink_800/0/1649336733588?e=2147483647&v=beta&t=8AKS83hnSezh8yukVZLbGaHfAyVUaqno3ABtEglQLZQ" /><p>I copied the Medium website to express how well I can design and create what I can see. Once it can be perceived via mockups or examples it can be done</p><a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_github-opensource-design-activity-6917819662894260225-6FV1?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a></center></div> | <div align="center"  colspan="1"><img height="150px" src="https://media-exp1.licdn.com/dms/image/C4D22AQGtBg8LB4DBMA/feedshare-shrink_800/0/1648143838293?e=2147483647&v=beta&t=aibWhxYpQ0rK6dwPKyasPK9F5uR1U5nmE5Hi1tKlS28" /><p>I have always disliked the fact that WhatsApp does not publicly allow developers to build assistive bots, its frustrating 😔. Telegram has been built with so much support at this end....read more below</p><a href="https://www.linkedin.com/posts/elvis-agbesi-81b615171_community-python-learning-activity-6912816302571020288--cbr?utm_source=linkedin_share&utm_medium=member_desktop_web">Post Here</a></div> |  
+
+
+  <p/>
   
 ## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
 [![Top contributors](https://images.repography.com/28568708/LighteningCode/LighteningCode/top-contributors/5f58e269a7e9faa9724bfb4e342d6a1a_table.svg)](https://github.com/LighteningCode/LighteningCode/graphs/contributors)
